@@ -1,4 +1,4 @@
-namespace fuck
+namespace FakeApp
 {
     public partial class Form1 : Form
     {

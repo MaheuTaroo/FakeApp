@@ -1,4 +1,4 @@
-namespace fuck
+namespace FakeApp
 {
     internal static class Program
     {

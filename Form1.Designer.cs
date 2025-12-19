@@ -1,4 +1,4 @@
-﻿namespace fuck
+﻿namespace FakeApp
 {
     partial class Form1
     {
@@ -47,7 +47,9 @@
             ClientSize = new Size(120, 15);
             Controls.Add(label1);
             MaximizeBox = false;
+            MaximumSize = new Size(136, 54);
             MinimizeBox = false;
+            MinimumSize = new Size(136, 54);
             Name = "Form1";
             ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
